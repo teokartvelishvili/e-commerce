@@ -38,7 +38,7 @@ const Home: React.FC = () => {
       category: "აქსესუარები",
     },
     {
-      id: 1,
+      id: 4,
       image: "https://via.placeholder.com/200",
       title: "პროდუქტი 1",
       description: "მოკლე აღწერა პროდუქტის შესახებ.",
@@ -46,7 +46,7 @@ const Home: React.FC = () => {
       category: "ტექნიკა",
     },
     {
-      id: 2,
+      id: 5,
       image: "https://via.placeholder.com/200",
       title: "პროდუქტი 2",
       description: "მოკლე აღწერა პროდუქტის შესახებ.",
@@ -54,7 +54,7 @@ const Home: React.FC = () => {
       category: "ტანსაცმელი",
     },
     {
-      id: 3,
+      id: 6,
       image: "https://via.placeholder.com/200",
       title: "პროდუქტი 3",
       description: "მოკლე აღწერა პროდუქტის შესახებ.",
