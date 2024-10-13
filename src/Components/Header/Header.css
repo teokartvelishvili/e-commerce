@@ -1,6 +1,6 @@
 .header {
-    background-color: white;
-    color: black;
+    background-color: #d8d7d4; /* Light background for dark theme */
+    color: #121212; /* Dark text for dark theme */
 }
 .dark.header {
     background-color: black;

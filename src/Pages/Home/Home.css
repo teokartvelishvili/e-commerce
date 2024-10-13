@@ -1,9 +1,19 @@
 .page {
     background-color: white;
-    height: 50vh;
+    /* height: 50vh; */
+    padding: 20px;
 }
 
 .page.dark {
     background-color: rgb(49, 47, 47);
     color: white;
 }
+
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px
+  }
+  
