@@ -1,0 +1,9 @@
+.page {
+    background-color: white;
+    height: 50vh;
+}
+
+.page.dark {
+    background-color: rgb(49, 47, 47);
+    color: white;
+}
